@@ -1,0 +1,20 @@
+.one {
+    width: 200px;
+    height: 200px;
+    background-color: lightgreen;
+}
+
+.two {
+    width: 200px;
+    height: 200px;
+    background-color: violet;
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+
+.three {
+    width: 200px;
+    height: 200px;
+background-color: gold;
+}
