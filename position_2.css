@@ -1,0 +1,36 @@
+body {
+    height: 2000px;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+
+.container {
+    width: 600px;
+    height: 650px;
+    border: solid 5px green;
+    position: relative;
+}
+
+.one {
+    background-color: lightgreen;
+}
+
+.two {
+    background-color: violet;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.three {
+    width: 100%;
+    height: 30px;
+    background-color: gold;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
